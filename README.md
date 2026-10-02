@@ -1,4 +1,4 @@
 # Sonic 1
 My first git project 
 <br>
-Author Jay
+Author Jay (Project)
